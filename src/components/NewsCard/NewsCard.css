@@ -1,0 +1,17 @@
+.newsCard{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+.newsText{
+    padding: 0 0 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.newsImage{
+    height: 420px;
+    width: 420px;
+}
